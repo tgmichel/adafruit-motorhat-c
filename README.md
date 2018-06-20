@@ -1,6 +1,6 @@
 # Adafruit MotoHAT C Port
 
-This a rather limited C port - only Stepper code and oneStep method - of [Adafruit's official Python Library](https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library). The [Motorhat](https://www.adafruit.com/product/234) uses the [TB6612 Motor driver](https://cdn-shop.adafruit.com/datasheets/TB6612FNG_datasheet_en_20121101.pdf) so you can probably use this code with it.
+This a rather limited C port - only Stepper code and oneStep method - of [Adafruit's official Python Library](https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library). The [Motorhat](https://www.adafruit.com/product/2348) uses the [TB6612 Motor driver](https://cdn-shop.adafruit.com/datasheets/TB6612FNG_datasheet_en_20121101.pdf) so you can probably use this code with it.
 
 Tested on a Raspberry Pi 3 B+.
 
